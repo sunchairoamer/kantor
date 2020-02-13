@@ -288,11 +288,11 @@ Dengan lahap semua gembira</p>
       <div class="card-panel">
           <h5>Tolong isi</h5>
           <div class="input-field">
-            <!-- <input type="text" name="name" id="name" required class="validate "> -->
-            <!-- <label for="name">Name</label> -->
-              <input id="subject" type="subject" class="form-control{{
+            <input type="text" name="name" id="name" required class="validate ">
+            <label for="name">Name</label>
+              <!-- <input id="subject" type="subject" class="form-control{{
                 $errors->has('subject') ? 'is-invalid' : ''}}" name="subject"
-                value="{{old('subject')}}" required autofocus>
+                value="{{old('subject')}}" required autofocus> -->
 
           </div>
           <div class="input-field">
